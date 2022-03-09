@@ -1,0 +1,13 @@
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\build\Windows.exe
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\build\Windows.pdb
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\build\Windows.xml
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\MicrosoftVisualStudio.Form1.resources
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\MicrosoftVisualStudio.Form2.resources
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\MicrosoftVisualStudio.Resources.resources
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\mvb 2010\Windows.exe
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\mvb 2010\Windows.pdb
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\mvb 2010\Windows.xml
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\Windows.exe
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\Windows.xml
+C:\Users\Светочка\Desktop\user_Максим\Информатика\VB\bsod\not evil\WindowsApplication1\WindowsApplication1\obj\x86\Release\Windows.pdb

@@ -1,0 +1,10 @@
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Windows.exe
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Windows.pdb
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Windows.xml
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows1.Form1.resources
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows1.Form2.resources
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows1.Resources.resources
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows.exe
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows.xml
+C:\Users\Светочка\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Windows.pdb
